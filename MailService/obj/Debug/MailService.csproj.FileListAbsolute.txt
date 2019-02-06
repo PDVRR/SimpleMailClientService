@@ -1,0 +1,7 @@
+C:\Users\P_DVRR\source\repos\MailS\MailService\bin\Debug\MailService.dll.config
+C:\Users\P_DVRR\source\repos\MailS\MailService\bin\Debug\MailService.dll
+C:\Users\P_DVRR\source\repos\MailS\MailService\bin\Debug\MailService.pdb
+C:\Users\P_DVRR\source\repos\MailS\MailService\obj\Debug\MailService.csprojAssemblyReference.cache
+C:\Users\P_DVRR\source\repos\MailS\MailService\obj\Debug\MailService.csproj.CoreCompileInputs.cache
+C:\Users\P_DVRR\source\repos\MailS\MailService\obj\Debug\MailService.dll
+C:\Users\P_DVRR\source\repos\MailS\MailService\obj\Debug\MailService.pdb

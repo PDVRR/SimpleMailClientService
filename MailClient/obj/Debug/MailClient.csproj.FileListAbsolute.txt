@@ -1,0 +1,12 @@
+C:\Users\P_DVRR\source\repos\MailS\MailClient\obj\Debug\MailClient.csprojAssemblyReference.cache
+C:\Users\P_DVRR\source\repos\MailS\MailClient\obj\Debug\MailClient.Properties.Resources.resources
+C:\Users\P_DVRR\source\repos\MailS\MailClient\obj\Debug\MailClient.csproj.GenerateResource.cache
+C:\Users\P_DVRR\source\repos\MailS\MailClient\obj\Debug\MailClient.csproj.CoreCompileInputs.cache
+C:\Users\P_DVRR\source\repos\MailS\MailClient\bin\Debug\MailClient.exe.config
+C:\Users\P_DVRR\source\repos\MailS\MailClient\bin\Debug\MailClient.exe
+C:\Users\P_DVRR\source\repos\MailS\MailClient\bin\Debug\MailClient.pdb
+C:\Users\P_DVRR\source\repos\MailS\MailClient\obj\Debug\MailClient.exe
+C:\Users\P_DVRR\source\repos\MailS\MailClient\obj\Debug\MailClient.pdb
+C:\Users\P_DVRR\source\repos\MailS\MailClient\obj\Debug\MailClient.Login_Form.resources
+C:\Users\P_DVRR\source\repos\MailS\MailClient\obj\Debug\MailClient.Main_Form.resources
+C:\Users\P_DVRR\source\repos\MailS\MailClient\obj\Debug\MailClient.Mail_Form.resources
